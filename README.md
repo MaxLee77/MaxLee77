@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nodir
-- 👀 I’m interested in ... artificial intellgence:
-- 🌱 I’m currently learning ... Data science, Ai, Python, linear algebra,
+- 👀 I’m interested in ... Artificial Intellgence:
+- 🌱 I’m currently learning ... Data science, AI, Python, Linear algebra,
 - 💞️ I’m looking to collaborate on ...with companies that create artificial intelligence
 - 📫 How to reach me ... my email: nodiralee7@gmail.com
 
